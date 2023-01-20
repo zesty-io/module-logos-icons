@@ -1,0 +1,9 @@
+  - category: "logo-section"
+    key: "logo_section_header"
+    keyFriendly: "Logo Section Header"
+    value: "Trusted by top global brands test"
+    admin: false
+    parsleyAccess: true
+    dataType: "text"
+    options: ""
+    tips: "This header text is used in logo section module"

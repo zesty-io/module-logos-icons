@@ -1,0 +1,17 @@
+  - referenceName: "headings-font-family"
+    name: "Heading Font"
+    sort: 9
+    type: "font_picker"
+    value: "Abyssinica SIL:400"
+    description: null
+    category: 2
+    options: null
+  - referenceName: "headings-color"
+    name: "H1 Font Color"
+    sort: 10
+    type: "color"
+    value: "#000000"
+    description: null
+    category: 2
+    options: null
+ 
