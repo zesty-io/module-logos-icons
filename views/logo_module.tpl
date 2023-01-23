@@ -1,6 +1,7 @@
 <div class="pure-g-1">
     <h1 class="pure-header">
-    {{setting.logo-section.logo_section_header}}
+    (** {{setting.logo-section.logo_section_header}} **)
+    Trusted by top global brands test
     </h1>
     <div class="pure-g">
     {{each logo_icons as logo where sort by sort_order}}
