@@ -22,11 +22,10 @@ Preview: https://logosection.zesty.dev/
 3. Click `Create Item` or Ctrl + S.
 
 ## Setting the logo header text
-> Specific setting for the value of Logo header text inside the logo module.
-1. Go to `Settings` tab -> Instance settings -> `Logo Section` settings.
-2. Inside `Logo Section Header` -> the user may input his desired logo header text value.
-3. Hit `Save` and check the preview again. 
-![image](https://user-images.githubusercontent.com/114006998/213514976-89c723bc-3209-4b76-9673-9bcfe90027f6.png)
+> For adding the logo header text value
+1. Go to `Code` tab -> logo_module file
+2. Inside `<h1>` tag, place the logo header text value -> click `Save or Ctrl + S`.
+![image](https://user-images.githubusercontent.com/114006998/214117698-0c35fc4b-c0d7-49b0-85fe-193efc216266.png)
 
 ## Selecting the headings-font-family
 > This is for choosing the font-family/style that the logo section header bases on.
@@ -61,3 +60,9 @@ Preview: https://logosection.zesty.dev/
 2. Add this line `.pure-header{color: @headings-color};`.
 3. Once added, click `Save or Ctrl + S`, also `Publish Version`for Live preview.
 ![image](https://user-images.githubusercontent.com/114006998/213715070-436a236e-90f8-450c-9a39-60dab3a164f5.png)
+
+<!-- Original logo header setting > Specific setting for the value of Logo header text inside the logo module.
+1. Go to `Settings` tab -> Instance settings -> `Logo Section` settings.
+2. Inside `Logo Section Header` -> the user may input his desired logo header text value.
+3. Hit `Save` and check the preview again.
+![image](https://user-images.githubusercontent.com/114006998/213514976-89c723bc-3209-4b76-9673-9bcfe90027f6.png) -->
