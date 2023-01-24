@@ -1,0 +1,37 @@
+  - description: ""
+    label: "Logo Icons"
+    name: "logo_icons"
+    sort: 102
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/logo_icons.yaml"
+    fields:
+      - name: "image"
+        label: "Image"
+        description: ""
+        datatype: "images"
+        sort: 0
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_order"
+        label: "Sort Order"
+        description: ""
+        datatype: "sort"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "link"
+        label: "Link"
+        description: ""
+        datatype: "link"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
