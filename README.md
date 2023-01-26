@@ -46,7 +46,7 @@ Preview: https://logosection.zesty.dev/
 ## Selecting the header color
 > This is for choosing the headings color that the logo section header bases on.
 1. The user may change the value of `@headings-color` -> Go to `Settings` tab -> `Typography` -> Select a color from the color picker of `@headings-color` -> Click `Ok`
-2. Once the `font-family` is selected -> Click `Save Settings`. 
+2. Once the `headings-color` is selected -> Click `Save Settings`. 
 ![image](https://user-images.githubusercontent.com/114006998/213713353-e10ae023-87be-4ba2-8af9-a9c11a6a212d.png)
 
 
